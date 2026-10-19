@@ -1,0 +1,2 @@
+# premium-guitar-pickup-001-guitar-pickup-winding-turn-cou
+Tired of losing count halfway through winding your pickups? Stop guessing and start tracking with precision.  This Notion template eliminates the need for expensive hardware counters or unreliable manual tallying. With a simple click, you can record each turn, track progress across multiple pickups, and ensure consistent, repeatable results.  ## Wh
